@@ -43,9 +43,4 @@ function addG1(){
 sum1 += 1
 guest1 = guestPlayer.textContent = sum1
  
-}  export default defineConfig({
-	plugins: [
-		[index.js]
-	]
-})
-
+}  
