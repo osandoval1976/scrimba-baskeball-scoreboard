@@ -7,7 +7,7 @@ body {
 
 .container {
     display:flex;
-    height: 50%;
+    height: 100%;
     margin-top: 160px;
     margin-right:350px;
     margin-left: 750px;
