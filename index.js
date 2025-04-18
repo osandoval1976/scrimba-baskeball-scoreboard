@@ -44,5 +44,5 @@ guest1 = guestPlayer.textContent = sum1
  
 }
 
-ddG1()  
+  
 
