@@ -22,9 +22,7 @@ sum += 1
 homePlayer.textContent = sum
       
 }
-addHome1();
-addHome2();
-addHome3();
+
 
 /----- Guess Scoreboard---/
 
@@ -45,6 +43,3 @@ guest1 = guestPlayer.textContent = sum1
  
 }  
 
-addG1();
-addG2();
-addG3();
