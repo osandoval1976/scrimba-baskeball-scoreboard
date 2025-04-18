@@ -9,12 +9,13 @@ body {
     display:flex;
     margin-top: 160px;
     margin-right:350px;
-    margin-left: 205px;
-  
-    
+    margin-left: 500px;
+   
   
     
  }
+
+
 #bhome{
   display: flex;
   height: 100px;

@@ -43,5 +43,8 @@ function addG1(){
 sum1 += 1
 guest1 = guestPlayer.textContent = sum1
  
-      
 }  
+
+addG1();
+addG2();
+addG3();
