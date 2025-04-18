@@ -22,7 +22,9 @@ sum += 1
 homePlayer.textContent = sum
       
 }
-
+addHome1();
+addHome2();
+addHome3();
 
 /----- Guess Scoreboard---/
 
