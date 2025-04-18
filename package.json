@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "npm-watch": "^0.13.0",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }

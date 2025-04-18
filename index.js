@@ -1,4 +1,3 @@
-import { defineConfig } from "vite"
 
 let homePlayer = document.getElementById("bhome");
 let sum = 0;
@@ -43,4 +42,7 @@ function addG1(){
 sum1 += 1
 guest1 = guestPlayer.textContent = sum1
  
-}  
+}
+
+ddG1()  
+
