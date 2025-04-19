@@ -5,8 +5,7 @@
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
-    
+          "preview": "vite preview --port 8080"
   },
   "dependencies": {
     "npm-watch": "^0.13.0",
